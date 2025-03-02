@@ -33,11 +33,11 @@ const GlobalStyle = createGlobalStyle`
 
   #root {
     width: 390px; //앱크기로 기본 설정
-    height: 100vh;
+    height: 95vh;
     background: white;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     overflow: hidden;
-    border-radius: 20px; 
+    border-radius: 15px; 
   }
 
   body {
